@@ -32,7 +32,6 @@ div {
     padding: 25px 25px 25px;
   }
 
-
 #red{
     background-color: #ff0000;
     text-align: right;
@@ -55,8 +54,8 @@ div {
     text-align: left;
 }
 
-footer{
+footer, p{
     text-align: center;
     padding-right: 10px;
     padding-bottom: 10px;
-} 
+}
