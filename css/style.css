@@ -27,20 +27,20 @@ h2{
 p{ font-size: 24px;
 padding-top: 15px;}
 
+div {
+    min-height: 150px;
+    padding: 25px 25px 25px;
+  }
 
 
 #red{
     background-color: #ff0000;
     text-align: right;
-    padding: 25px 25px 25px;
-    height:150px;
 }
 
 #blue{
     background-color: #0000ff;
     text-align: left;
-    padding: 25px 25px 25px;
-    height:150px;
 }
 
 #yellow{
@@ -48,15 +48,11 @@ padding-top: 15px;}
     text-align: right;
     color:#000000;
     text-shadow: 4px 4px 2px #c7e2c7;
-    padding: 25px 25px 25px;
-    height:150px;
 }
 
 #green{
     background-color: #008000;
     text-align: left;
-    padding: 25px 25px 25px;
-    height:150px;
 }
 
 footer{
